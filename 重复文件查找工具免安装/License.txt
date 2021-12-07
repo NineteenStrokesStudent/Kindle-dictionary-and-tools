@@ -1,0 +1,26 @@
+Vistanita Duplicate Finder License Agreement
+============================================
+
+Except where otherwise noted, all of the documentation and software included in the Vistanita Duplicate Finder package is copyrighted by Vistanita
+
+Copyright (C) 2007 - 2010 Vistanita. All rights reserved.
+
+This software is shareware means free-to-try and provided "as-is," without any express or implied warranty.In no event shall the author be held liable for any damages arising from the use of this software.
+
+Restrictions
+==========================
+You are not allowed to:  
+1. Modify, reverse engineer, decompile, disassemble or otherwise attempt to reconstruct or discover the source code, or any parts of it from the binaries.
+2. Create, develop, distribute, use, install or store in your computer a program, source code, mechanism, method, protocol or algorithm to bypass or to brake license validation. 
+3. Remove any product identification, copyright, proprietary notices or labels from Vistanita Duplicate Finder. 
+4. Distribute, re-distribute, rent, lease or sell the licensed version of Vistanita Duplicate Finder or any portions of it or the license itself or any portions of the license without written permission from the Author. 
+5. Distribute Vistanita Duplicate Finder in any other form than in the official distribution packages without a written permission from the Author. 
+6. Use the licensed version of Vistanita Duplicate Finder if you know that the copy you are using is illegal or the license itself is illegal or fake. 
+
+Website
+http://www.vistanita.com/
+
+Contact
+support@vistanita.com
+
+

@@ -1,0 +1,323 @@
+Everything 1.2.1.375b 汉化说明
+---最快的文件搜索工具(仅 NTFS)                      
+--------------------------------------------------------------            
+软件名称: Everything                                    
+版本：1.2.1.375b
+汉化作者：余飞雨
+联系方式: dgyf44^gmail.com 写信时请替换 ^ 为 @
+（由于垃圾邮件太多，写信请以余飞雨开头）                           
+原版下载：不需要                                                       
+运行环境：Windows 95, 98, Me, NT, 2000, XP and .NET Server                          
+--------------------------------------------------------------          
+软件介绍:
+    NTFS 文件系统下最快的文件搜索工具！文件搜索工具有不少，如
+Ava Find Pro，Locate32，File Seeker 等，但要说速度最快的，还
+非 Everything 莫属。与其它的搜索工具不同，Everything 只可搜索
+NTFS 文件系统下的文件，其作者大概把 NTFS 文件系统研究了个透彻，
+所以此工具搜索起来速度惊人，搜索后会把搜索结果保存为数据库文件，
+既可方便移动，又让你感觉不到数据库更新的费时。推荐下载！
+
+   注意: 初次使用生成数据库需要点时间，请耐心等待后搜索。 
+--------------------------------------------------------------                   
+声明：                                                                           
+ 1.此软件原始版权归原作者所有,汉化资源版权归汉化者所有。             
+ 2.本人所有汉化作品均为免费发放，任何组织或个人未经本人允许，         
+不得将本人的汉化作品用在商业活动或是其它赢利性活动中。                 
+ 3.本人的汉化只为了使用方便而做，您使用本人的汉化作品是您的          
+自由选择，本人并不对由此给您的计算机系统带来的任何问题负责。            
+ 4.欢迎转载、传播本人所有汉化作品。但请注意在转载或传播过程中         
+保持汉化文件的完整性。                                                 
+ 5.在使用过程中如果发现翻译错误之处，请及时到                         
+http://bbs.hanzify.org/ 留言，本人在时间、精力允许的情况下
+将继续改进。
+  6.本人在汉化软件中的所有广告，皆为汉化生存考虑，希望广大用户
+体谅和支持
+  7.  近来一些个人网站出于某种目的对本人的汉化作品进行所谓的绿
+化，导致软件功能不全或丧失，甚至不署名发布抄袭本人的汉化作品，
+而美其名曰所谓的"绿色版""完美版"。
+    本人在此严正声明：
+    本人的所有汉化作品，通常首发于汉化新世纪、华军软件园和天空
+软件站，其对应网址为: 
+   汉化新世纪: http://www.hanzify.org
+   华军软件园: http://www.onlinedown.net
+   天空软件站: http://www.skycn.com
+   用户在这几个网站下载的都是原汁原味的汉化作品，这些汉化作品
+通常采用的是安装程序，安装后可以随时卸载。而个别人由于不了解
+本人对安装程序的操作，盲目绿化，导致软件所依赖的注册表项目缺
+失，系统右键菜单项目缺失，运行软件后所产生的大量注册表项目由于
+缺少卸载程序而无法清理，更有别有用心的人在此基础上加上木马、
+病毒等，这是严重不尊重汉化人以及广大用户的表现。
+    本人再次重申，本人的所有汉化作品都有"飞雨汉化室"及
+"汉化: 余飞雨"标识，发布方式为安装程序。用户由于使用所谓的
+"绿色版""完美版"而导致的任何问题，均与本人无关，本人也不会
+对用户的这些问题作出任何解释，特此声明！                                                                  
+--------------------------------------------------------------
+
+-------------------------------------------------------------                    
+-------------------------------------------------------------                    
+我所汉化的软件：^_^ 
+
+*1by1 1.29 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.31 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.34 增强版    小巧好用的 MP3 目录播放器   
+*1by1 1.49 增强版    小巧好用的 MP3 目录播放器 
+*1by1 1.50 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.51           小巧好用的 MP3 目录播放器
+*1by1 1.51 增强版    小巧好用的 MP3 目录播放器 
+*1by1 1.53 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.54 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.55 增强版    小巧好用的 MP3 目录播放器
+*1by1 1.56 增强版修正 小巧好用的 MP3 目录播放器              
+
+*Actual Search & Replace 2.36 最好的内容替换工具
+*Actual Search & Replace 2.6.5 最好的内容替换工具
+*Actual Search & Replace 2.8.3 最好的内容替换工具
+*Absolute HTML Compressor 1.14 最大压缩网页的软件
+*Alkonost MaxFormat 2.41 最好的软盘最大格式化工具
+*AimOne Audio/Video to MP3/WAV Converter 1.61 最好的音频转换工具之一
+*AvaFind Pro 1.5         最好的硬盘搜索工具
+*AVI MPEG WMV RM to MP3 Converter 1.3   音频转换大师
+*AVI MPEG WMV RM to MP3 Converter 1.3.2 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter 1.3.6 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter 1.4.0 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter V1.4.2.1212b  音频转换大师
+*AVI MPEG WMV RM to MP3 Converter V1.4.6 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter V1.5.0 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter V1.5.2 音频转换大师
+*AVI MPEG WMV RM to MP3 Converter V1.5.4 音频转换大师
+*AVG Anti-Spyware(Ewido) 7.5.1.43-3339 免注册汉化增强终结版
+*AVG Anti-Spyware(Ewido) 7.5.1.43-3339 免注册无广告汉化增强版
+*AVG Anti-Spyware(Ewido) 7.5.1.43-3339 最终汉化典藏版
+*Allok AVI MPEG Converter 1.3.6 汉化版
+*Allok AVI MPEG Converter 1.4.6 汉化版
+*Allok AVI MPEG Converter 1.5.0 汉化版
+*Allok video joiner 1.4.8   汉化版
+*Allok Video Joiner 1.6.0   汉化版
+*Allok Video Joiner 1.6.4   汉化版
+*Allok video splitter 1.4.8 汉化版
+*Allok Video Splitter 1.6.0 汉化版
+*Allok Video Splitter 1.6.4 汉化版
+*ATTO Disk Benchmark  2.41 汉化版  磁盘读写速度测试软件
+*ATTO Disk Benchmark  2.42 汉化版  磁盘读写速度测试软件 
+*ATTO Disk Benchmark  2.43 汉化版  磁盘读写速度测试软件  
+*Autoruns 8.73 简繁中文版  自启动程序查看器
+*Autoruns 9.0 简繁中文版  自启动程序查看器
+*Autoruns 9.39 简体中文版  自启动程序查看器
+*Autoruns 9.40 简体中文版  自启动程序查看器
+
+ 
+*Bulk Rename Utility 2.1.0.12 ; 2.1.0.10 ;2.2.3.0 ;2.2.8.0
+2.2.8.1 Unicode;2.2.9.0 ;2.2.9.0 Unicode 最好的文件更名工具
+*Bulk Rename Utility 2.3.0.0     最好的文件更名工具                     
+*Bulk Rename Utility 2.3.0.0 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.3.3.0     最好的文件更名工具
+*Bulk Rename Utility 2.3.3.0 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.3.4.1     最好的文件更名工具
+*Bulk Rename Utility 2.3.4.1 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.3.5.0     最好的文件更名工具 
+*Bulk Rename Utility 2.3.5.0 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.3.6.0     最好的文件更名工具 
+*Bulk Rename Utility 2.3.6.0 Unicode   最好的文件更名工具  
+*Bulk Rename Utility 2.3.7.2 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.7.1.1 Unicode   最好的文件更名工具
+*Bulk Rename Utility 2.7.1.1 Unicode  修正 最好的文件更名工具                                  
+*BrowserSizer 1.5 最好的测试网页在不同分辨率下显示情况的工具
+*BookmarkManger 1.7beta full ; small 最小的书签工具
+*BossKey 2.0 最小的虚拟桌面工具
+*BT Helper 1.1        BT优化小助手
+
+*Color Scheme Designer 0.9 最好的网页调色工具
+*Camstudio 2.0  教学演示工具（录制为 Flash）
+*CopyText 2.2  窗口文字猎手
+*crystal Button 2.10 最好的水晶按钮制作工具
+*crystal Button 2.8 最好的水晶按钮制作工具
+
+*DAMN Hash Calculator 1.5.1
+*dirhtml 4.56 最好的目录索引或文件及文件夹列表工具--建立光盘                   
+文件索引等超级好用
+*Dirhtml 4.6 汉化增强版     最好的文件夹或目录索引工具
+*DTopPicture 3     把照片贴到电脑桌面上
+*Dyro Web Scrollbars 1.1 最好的网页彩色滚动条生成工具                            
+*Dyro Frameless Banner 1.8 最好的无框架网页横幅生成工具
+*Dupli Find 3.0  重复内容查找工具  
+
+*EXE Lockout 2.0 最小的程序加锁软件
+*e-Pointer 1.0 最小的电子教鞭--把电脑当成黑板
+*Easy video to audio converter 1.3.6 最好的音频转换工具之一
+*Easy video to audio converter 1.3.8 最好的音频转换工具之一
+*Easy video to audio converter 1.4.0 最好的音频转换工具之一
+*Easy video to audio converter 1.4.6 最好的音频转换工具之一
+*Easy video to audio converter 1.4.8 最好的音频转换工具之一
+*Easy video to audio converter 1.5.0 最好的音频转换工具之一
+*Everything 1.2.1.375b 最快的文件搜索工具(仅 NTFS)
+*ewido anti-spyware 4.0.0.172a   电脑安全专家
+*ewido anti-spyware 4.0.0.172b 增强版   电脑安全专家
+*ewido anti-spyware 4.0.0.172c 增强版   电脑安全专家
+           
+*FastCopy 1.40    最快的文件拷贝工具
+*FastCopy 1.50    最快的文件拷贝工具
+*FastCopy 1.92    最快的文件拷贝工具 
+*FastCopy 1.93    最快的文件拷贝工具
+*FastCopy 1.94    最快的文件拷贝工具
+*FastCopy 1.96    最快的文件拷贝工具
+*FastCopy 1.97    最快的文件拷贝工具
+*FastCopy 1.98    最快的文件拷贝工具
+*FDBENCH 1.02  测试磁盘传输速率的软件
+*Fontlister 2.0 最好的字体浏览工具                                               
+*FFFtp 1.90 最小的FTP工具
+*FLASH Extractor 1.01b 最小的 EXE 转 SWF 工具
+*Fire Magic! Screensaver 2.50 让电脑燃烧起来的屏保
+*Filemon 7.01 for WinNT/2K/XP/2K3 文件监视程序
+*Filemon 7.01 for Win9X/ME 文件监视程序
+*Filemon 7.02 文件监视程序
+*Filemon 7.04 简繁中文版 文件监视程序
+*FolderMatch 3.4.8    文件夹比较同步专家
+*Font Xplorer 1.2.2 Retail  最好的字体工具
+*Foxit Reader  1.3 Build 1413 小巧好用的 PDF 文件阅读器
+*Foxit Reader  1.3 Build 1522 小巧好用的 PDF 文件阅读器
+*Foxit Reader Pro 1.3 Build 1325 小巧好用的 PDF 文件阅读器
+*Foxit Reader Pro 1.3 Build 1522 小巧好用的 PDF 文件阅读器
+*Foxit Reader Pro 1.3 Build 1621 小巧好用的 PDF 文件阅读器
+*File Seeker 2.0  文件搜索客
+
+*get & set 1.3 窗口信息显示工具                                                        
+                                              
+*HTML2TXT 4.0 &4.1 最好的网页转文本工具                                               
+*HTML UnOptimiser 1.0 最好的网页源码优化工具                                                  
+*HashCalc 2.01 超强文件"指纹"校验机
+*HashCalc 2.02 超强文件"指纹"校验机
+*hkSFV 2.0.1 Build 84  创建 SFV、MD5 校验文件的工具
+*HTML image splitter 2.0 网页图像分割工具
+*History Cleaner 3.13  电脑垃圾清理助手
+*Hash 1.03 小巧好用的哈希计算器                      
+                                      
+*Internet Slideshow 2.16 最方便的网页浏览工具，一键上网，速度                    
+飞快
+*IP2 1.03          最好用的查看本机 IP 地址的软件
+
+*LeapFTP 2.7.5.610 最终版  最好的 FTP 工具之一
+*LeapFTP 2.7.6.613 最好的 FTP 工具之一
+**Liatro SWF Decoder 2.8a  SWF 文件提取器
+*Liatro SWF Decoder 3.0  SWF 文件提取器
+*Liatro SWF Compress 1.2  SWF 文件压缩器
+
+*MAME32K 0.67  经典怀念豪华版          经典街机游戏豪华版 
+*MAME32K 0.67  经典街机游戏模拟器
+*MAME32K 0.67.103 汉化修正版   经典街机游戏模拟器
+*metapad 3.51  小巧好用的记事本       
+*MIDI Player 1.0    MIDI专用播放器
+*Myplayer 2.0 最小的歌词编辑器
+*Magic Morph 1.95b 最酷变脸（变形）工具--可以生成 Flash 电影
+*Multi Timer 1.27  超级定时器 
+*Media Player Classic 6.4.8.9 Unicode for Win2K/XP
+*Media Player Classic 6.4.9.0 Unicode for Win2K/XP
+*Media Player Classic 6.4.9.0  for Win98/ME
+
+*Nullsoft Copy 0.1 最好的文件夹同步或目录对拷工具之一（拷贝电影等                   
+大文件速度飞快--复制文件夹的超级"马达"）                                                                             
+                                         
+*pdf2txt 2.7 & 3.0  方便的 PDF 转换工具                                          
+*pdf2HTML 1.3   方便的 PDF 转换工具
+*power mp3 wma converter 2005 v 2.0.0.1 最好的音频转换工具之一
+*Power MP3 WMA Converter 2005 v 2.0.0.6 最好的音频转换工具之一
+*Power MP3 WMA Converter 2006 v3.0.0.3  最好的音频转换工具之一
+*Power MP3 WMA Converter 2006 v3.1.0.1  最好的音频转换工具之一
+*Power MP3 WMA Converter 2006 v3.42     最好的音频转换工具之一
+*Power MP3 WMA Converter 2006 v3.42a    最好的音频转换工具之一
+*Power MP3 Cutter 2005 v 2.0.0.1        最好的音频分割工具之一
+*Power Video Converter V1.5.2           视频转换工具
+*Photoshop Interface Assistant 2.2      Photoshop 浮动面板控制专家
+*Process Viewer 5.2.15.1                最好的进程监视工具之一
+*Process Explorer 10.06                 最好的进程监视工具
+*Process Explorer 10.11                 最好的进程监视工具
+*Process Explorer 10.2                  最好的进程监视工具
+*Process Explorer 11.04简繁中文版       最好的进程监视工具
+*Process Explorer 11.2                  最好的进程监视工具
+*Process Explorer 11.33                 最好的进程监视工具
+*Process Explorer 11.33  修正           最好的进程监视工具
+*Process Explorer 11.33  二次修正       最好的进程监视工具
+*Process Explorer 11.33  三次修正       最好的进程监视工具
+*Process Tamer 2.03.01                  电脑防死机专家
+*Process Tamer 2.05.02                  电脑防死机专家
+*Process Tamer 2.09.01                  电脑防死机专家
+
+
+*Recover4all Pro 2.15 最小的文件恢复工具
+*Regmon 7.0   注册表监视程序
+*Regmon 7.02  注册表监视程序
+*Regmon 7.04  简繁中文版 注册表监视程序
+*Run 1.2      最小文件搜索机 
+*RegScanner  1.30  注册表搜索工具  
+*RegScanner  1.65 简繁中文版         注册表搜索工具
+*RegScanner  1.76 简体中文版         注册表搜索工具
+*RegScanner  1.77 简体中文版         注册表搜索工具                               
+                                          
+                                     
+*Swiff Player 1.1  最好用的 Macromedia Flash Player 外壳
+*SoundFaction Mixer 1.1.0  音量调节专家                         
+*signrobot 1.1 Build 22 最好用的图片水印工具
+*Search and Replace 4.2 最好的内容搜索工具
+*Search and Replace 5.4 最好的内容搜索工具
+*Search and Replace 5.5 最好的内容搜索工具
+*Search and Replace 5.9 Retail 最好的搜索替换工具之一
+*Search and Replace 6.0 Retail 最好的搜索替换工具之一
+*Search and Replace 6.1 Retail 最好的搜索替换工具之一
+*Search and Replace 6.2 Retail 最好的搜索替换工具之一
+*Snowflake II 最小的雪花图片生成工具
+*splitz! 1.41 小巧好用的图片分割工具 
+*SkinnerToo 2.1 Winamp 皮肤制作专家
+*SuperShredder 1.01  文件粉碎机
+*SuperCleaner 2.93   电脑垃圾清理专家
+*SuperCleaner 2.95   电脑垃圾清理专家
+*SuperCleaner 2.96   电脑垃圾清理专家
+
+*Total Copy 1.1 NetHorror Edition 复制增强大师
+*Tornado Flash Player 1.7  最好用的 Flash 播放软件之一
+
+*uptime 1.00 查看电脑运行了多长时间
+*UltraShredder V4.5.0  文件粉碎机
+*Ultra avi converter 2.0.4
+*Ultra avi converter 2.0.6
+*Ultra wmv converter 1.9.8
+*Ultra wmv converter 2.0.0
+
+*Visual Localize.net 4.1 最好的汉化工具之一
+
+*winMD5 1.1 最终版 最好的软件指纹校验工具--校验重复文件，防                    
+止病毒、木马的好工具
+*WinMD5 2.07 & 1.1 最流行的文件校验工具
+*Win32Pad 1.5.10  小巧好用的记事本替代工具
+*Win32Pad 1.5.10.4  小巧好用的记事本替代工具
+*Win32Whois 0.9.11  小巧好用的whois 查询工具
+*Win32Whois 0.9.14  小巧好用的whois 查询工具
+*Woodland Dreams Screensaver 4.1 ; Hanami 1.0.0.9 ;                              
+ Snow for Windows 0.1.5.6 ; AutumnLeaves 1.10 ;                                  
+ Nord-Tec Snow Flakes 1.0 ; Animate nature screensaver 1.1;                      
+  最美的四季桌面
+*wplay pro 2.1  最炫 MP3 播放器
+*Winamp 5.093 音效增强绿色版 
+*Winamp 5.093 音效增强绿色第二版 
+*Winamp 5.093 音效增强绿色第三版 
+*Winamp 5.093 音效增强绿色最终版 
+*Winamp 5.093 音效增强黄金绿色版 
+*Winamp 5.111 增强版
+*Winamp 5.112 增强版（四合一绿色版）
+*Winamp 5.112  (四合一) 黄金增强绿色版 
+*Winamp 5.12 四合一豪华增强版
+*Winamp 5.12.275 四合一豪华增强版  
+*Winamp 5.20.469 四合一增强版 
+*Winamp 5.20.473 四合一增强版
+*Winamp 5.21 四合一增强版
+*Winamp 5.23.672 四合一增强版 
+*Winamp 5.24.703 四合一增强版                 
+
+*Xenu Link Sleuth 1.2d 最小的网站链接检查工具
+    
+                                     余飞雨
+                                     2009-04-03
+__________________________________________________
+天空没有翅膀的影子，
+    而我已飞过。
+
+       ---泰戈尔（印度）                                  
+__________________________________________________                                                          

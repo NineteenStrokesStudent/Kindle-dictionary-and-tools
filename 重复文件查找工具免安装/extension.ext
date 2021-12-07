@@ -1,0 +1,91 @@
+存档 1 1
+7 ZIP (*.7Z) 2 2
+ACE (*.ACE) 2 2
+ALZip (*.ALZ) 2 2
+ARC (*.ARC) 2 2
+ARJ (*.ARJ) 2 2
+BZIP (*.BZ2) 2 2
+BZIP2 (*.BZ2) 2 2
+CABINET (*.CAB) 2 2
+JAR (*.JAR) 2 2
+LHA (*.LZH) 2 2
+PAK (*.PAK) 2 2
+RAR (*.RAR) 2 2
+Sony UMD (*.AT3) 2 2
+TARGZ (*.TGZ;*.TAR;*.GZ) 2 2
+UHA (*.UHA) 2 2
+ZIP (*.ZIP) 2 2
+CD 映像 1 1
+1 (*.ISO;*.MDF;*.MDS;*.BIN;*.NRG) 2 2
+2 (*.VCD;*.IMG;*.BIN;*.DAA;*.CUE) 2 2
+3 (*.BWI;*.B5I;*.GI;*.CDI;*.PDI) 2 2
+4 (*.P01;*.PXI;*.NCD;*.C2D;*.CIF) 2 2
+5 (*.LCD;*.FCD) 2 2
+文档 1 1
+MS Office 2 1
+MS ACCESS (*.MDB;*.ADP;*.MDA;*.MDE;*.ADE) 3 3
+MS EXCEL (*.XL;*.XLA;*.XLS;*.XLT;*.XLM;*.XLC;*.XLW) 3 3
+MS POWERPOINT (*.PPS;*.PPT) 3 3
+MS WORD (*.DOC;*.DOCX) 3 3
+网页文档 2 1
+ASP (*.ASP) 3 3
+CSS (*.CSS) 3 3
+HTML (*.HTML;*.HTM) 3 3
+PHP (*.PHP) 3 3
+XHTML (*.XHTML) 3 3
+JAVASCRIPT (*.JS) 3 2
+ABIWORD (*.ABW) 2 2
+ACROBAT READER (*.PDF) 2 2
+OPEN OFFICE (*.ODT;*.ODS;*.ODG;*.ODP;*.ODM;*.ODF) 2 2
+富文本 (*.RTF) 2 2
+文本文件 (*.TXT) 2 2
+VISIO (*.VS;*.V?X) 2 2
+WRITE (*.WRI) 2 2
+字体 1 1
+ADOBE (*.ABF;*.AFM;*.PFB;*.PFM;*.PFA) 2 2
+位图 (*.BDF;*.BMF;*.FON) 2 2
+OPEN TYPE (*.OTF) 2 2
+其他 (*.PCF;*.MGF;*.SNF;*.TFM) 2 2
+TRUE TYPE (*.TTF) 2 2
+多媒体 1 1
+音乐 2 1
+AAC (*.M4A;*.MP4;*.M4P;*.AAC) 3 3
+AIFF (*.AIFF) 3 3
+APE (*.APE) 3 3
+AU (*.AU) 3 3
+FLAC (*.FLAC) 3 3
+MIDI (*.MID) 3 3
+MP3 (*.MP3) 3 3
+OGG VORBIS(*.OGG) 3 3
+RAW (*.RAW) 3 3
+WAVE (*.WAV) 3 3
+WMA (*.WMA) 3 3
+其他 2 1
+播放列表 (*.ASX;*.WAX;*.M3U;*.WVX;*.WMX) 3 3
+视频 2 1
+3GP (*.3GP) 3 3
+FLASH (*.SWF;*.FLA;*.FLV) 3 3
+MATROSKA (*.MKV) 3 3
+MPEG (*.MPEG;*.MPG;*.M1V;*.MP2;*.MPA;*.MPE) 3 3
+QUICKTIME (*.MOV) 3 3
+VIDEO (*.AVI;*.WMV;*.DIVX) 3 3
+图片/图形 1 1
+3D (*.3DS;*.MAX;*.Z3D) 2 2
+位图 (*.BMP;*.RLE;*.DIB) 2 2
+COREL (*.CPT) 2 2
+光标 (*.ANI;*.CUR) 2 2
+DJVU (*.DJVU) 2 2
+动画 (*.GIF) 2 2
+图标 (*.ICO) 2 2
+JNG (*.JNG) 2 2
+JPEG (*.JPG;*.JPEG;*.JPE) 2 2
+JPEG 2000(*.JP2;*.JPC;*.J2K) 2 2
+MNG (*.MNG) 2 2
+PAINT.NET (*.PDN) 2 2
+PHOTOSHOP (*.PSD;*.PDD) 2 2
+PNG (*.PNG) 2 2
+TARGA (*.TGA;*.VDA;*.ICB;*.VST) 2 2
+TIFF (*.TIF;*.TIFF) 2 2
+矢量图 (*.AWG;*.SVG;*.WMF;*.AI;*.CGM;*.EMF;*.DXF;*.DWG;*.HPGL;*.EPS) 2 2
+无扩展名 (*..) 1 2
+系统文件 (*.EXE;*.DLL;*.OCX;*.COM) 1 2

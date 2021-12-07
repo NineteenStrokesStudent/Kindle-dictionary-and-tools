@@ -1,0 +1,17 @@
+BITMAP (*.BMP;*.RLE;*.DIB) 1 2
+JPEG (*.JPG;*.JPEG;*.JPE) 1 2
+PNG (*.PNG) 1 2
+GIF (*.GIF) 1 2
+ICON (*.ICO) 1 2
+TIFF (*.TIF;*.TIFF) 1 2
+Truevision (*.TGA;*.VST;*.ICB;*.VDA;*.WIN) 1 2
+Photoshop (*.PSD;*.PDD) 1 2
+Paintshop Pro (*.PSP) 1 2
+GFI (*.FAX) 1 2
+SGI (*.BW;*.RGB;*.RGBA;*.SGI;*.SCR) 1 2
+SGI Wavefront (*.RLA;*.RPF) 1 2
+Autodesk (*.CEL;*.PIC) 1 2
+ZSoft Paintbrush (*.PCX;*.PCC) 1 2
+Kodak Photo-CD (*.PCD) 1 2
+Portable pixel/gray map (*.PPM;*.PGM;*.PBM) 1 2
+Dr. Halo (*.CUT;*.PAL) 1 2
